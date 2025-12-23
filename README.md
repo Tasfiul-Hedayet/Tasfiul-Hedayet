@@ -13,7 +13,7 @@ I am currently pursuing a **Bachelor of Science in Computer Science** at **North
 ## 🛡️ Professional Expertise
 
 - **Security Researcher**  
-  Experienced in identifying and responsibly disclosing security vulnerabilities on platforms like **Intigriti** **YesWeHack** and **HackerOne**. Committed to strengthening digital security through ethical hacking and responsible disclosure.
+  Experienced in identifying and responsibly disclosing security vulnerabilities on platforms like **Intigriti**, **YesWeHack** and **HackerOne**. Committed to strengthening digital security through ethical hacking and responsible disclosure.
 
 - **Web Development**  
   Skilled in front-end and back-end development using languages and technologies such as **C, Java, C++, HTML5, CSS, JavaScript,** and **PHP**. Participated in various hackathons demonstrating problem-solving and coding excellence.
