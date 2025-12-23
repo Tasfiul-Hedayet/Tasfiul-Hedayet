@@ -31,7 +31,7 @@ I am currently pursuing a **Bachelor of Science in Computer Science** at **North
 
 Feel free to reach out or follow my work on these platforms:
 
-- 🔗 **LinkedIn:** [linkedin.com/in/tasfiul-hedayet-1761b8182](https://www.linkedin.com/in/tasfiul-hedayet-1761b8182/)  
+- 🔗 **LinkedIn:** [linkedin.com/in/tasfiul-hedayet-1761b8182](https://www.linkedin.com/in/tasfiul-hedayet)  
 - 💻 **GitHub:** [github.com/Tasfiul-Hedayet](https://github.com/Tasfiul-Hedayet)  
 - 🐦 **Twitter:** [@TasfiulHedayet](https://twitter.com/TasfiulHedayet)
 
