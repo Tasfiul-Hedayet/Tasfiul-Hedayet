@@ -1,47 +1,66 @@
 # Tasfiul Hedayet 👨‍💻
 
-Welcome to the official profile of **Tasfiul Hedayet**, a passionate computer science undergraduate, security researcher, and web developer with a strong focus on artificial intelligence and cybersecurity.
+> Computer Science undergraduate • Security researcher • Web & AI developer
 
 ---
 
-## 🎓 About Me
-
-I am currently pursuing a **Bachelor of Science in Computer Science** at **North South University (NSU)**, Dhaka, Bangladesh. Alongside my studies, I actively engage in cybersecurity research, web development, and AI innovation.
-
----
-
-## 🛡️ Professional Expertise
-
-- **Security Researcher**  
-  Experienced in identifying and responsibly disclosing security vulnerabilities on platforms like **Intigriti**, **YesWeHack** and **HackerOne**. Committed to strengthening digital security through ethical hacking and responsible disclosure.
-
-- **Web Development**  
-  Skilled in front-end and back-end development using languages and technologies such as **C, Java, C++, HTML5, CSS, JavaScript,** and **PHP**. Participated in various hackathons demonstrating problem-solving and coding excellence.
+<p align="center">
+  <a href="https://github.com/Tasfiul-Hedayet"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tasfiul-hedayet"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/TasfiulHedayet"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🤖 AI & Machine Learning Interests
+## Hi — I’m Tasfiul
 
-- Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, with a keen interest in **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
-- Regular contributor and collaborator on open-source AI projects hosted on **GitHub** and **Hugging Face**.
+I build secure and useful software: research-driven vulnerability discoveries, web apps, and AI tools. I’m currently studying for a B.Sc. in Computer Science at North South University (NSU), Dhaka, Bangladesh.
 
----
-
-## 🌐 Connect with Me
-
-Feel free to reach out or follow my work on these platforms:
-
-- 🔗 **LinkedIn:** [linkedin.com/in/tasfiul-hedayet-1761b8182](https://www.linkedin.com/in/tasfiul-hedayet)  
-- 💻 **GitHub:** [github.com/Tasfiul-Hedayet](https://github.com/Tasfiul-Hedayet)  
-- 🐦 **Twitter:** [@TasfiulHedayet](https://twitter.com/TasfiulHedayet)
+I focus on security research, practical web development, and applied AI/ML.
 
 ---
 
-Thank you for visiting my profile! I am always eager to connect with fellow tech enthusiasts, researchers, and developers.
+## 🚀 Selected Projects (personal — not forks)
+
+- **agency-web** — A modern website / web app project.  
+  https://github.com/Tasfiul-Hedayet/agency-web
+
+- **Client-Project** — Client work / demo application.  
+  https://github.com/Tasfiul-Hedayet/Client-Project
+
+- **Car-Price-Prediction-Flask** — ML demo: car price prediction using Flask.  
+  https://github.com/Tasfiul-Hedayet/Car-Price-Prediction-Flask
+
+- **Demo-Web** — Frontend / web demos and experiments.  
+  https://github.com/Tasfiul-Hedayet/Demo-Web
+
+- **Bus-Management-System** — University / practical system project.  
+  https://github.com/Tasfiul-Hedayet/Bus-Management-System
+
+- **discordbot** — Automation and bot examples for Discord.  
+  https://github.com/Tasfiul-Hedayet/discordbot
+
+(If you want different projects shown or short descriptions updated, tell me which repos to highlight and I’ll refresh these.)
 
 ---
 
+## 🧰 Tech & Tools
 
-https://www.motherlandbdhomes.com
+- Languages: C, C++, Java, Python, JavaScript, PHP
+- Frontend: HTML5, CSS3, React, vanilla JS
+- Backend: Node.js, Flask / FastAPI, PHP
+- AI / ML: PyTorch, TensorFlow, Hugging Face, LangChain
+- DevOps & tooling: Docker, Git, GitHub Actions, Linux
+- Security: Burp Suite, Frida, OSINT & reconnaissance tooling
 
+---
 
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/tasfiul-hedayet  
+- GitHub: https://github.com/Tasfiul-Hedayet  
+- Twitter: https://twitter.com/TasfiulHedayet
+
+---
+
+Thanks for visiting — always happy to collaborate or chat about security, AI, and web development.
